@@ -43,7 +43,7 @@ All datasets were integrated into an SQLite database, allowing efficient cross-p
 - Identified similar tracks and artists based on genre, artist, and popularity metrics
 - Exported results to CSV files for easy access
 
-![musicrec_results](https://github.com/user-attachments/assets/91fe61ec-0edf-4a54-bd9e-adde132cbca1)
+![music_rec_results](https://github.com/user-attachments/assets/2fe24688-7180-432e-9afc-61bdc2a65c66)
 
 ## Challenges
 
