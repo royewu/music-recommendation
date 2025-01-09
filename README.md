@@ -72,3 +72,9 @@ All datasets were integrated into an SQLite database, allowing efficient cross-p
 3. Populate the database with the provided datasets
 4. Execute the recommendation script to generate results
 5. View the output recommendations in the exported CSV files
+
+## Authors
+
+- Roye Wu
+- Dylan Van Berkel
+- Wilfred Fontanez
