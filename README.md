@@ -42,6 +42,7 @@ All datasets were integrated into an SQLite database, allowing efficient cross-p
 - Generated cross-platform recommendations for the user's top three songs
 - Identified similar tracks and artists based on genre, artist, and popularity metrics
 - Exported results to CSV files for easy access
+![musicrec_results](https://github.com/user-attachments/assets/91fe61ec-0edf-4a54-bd9e-adde132cbca1)
 
 ## Challenges
 
